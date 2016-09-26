@@ -9,5 +9,6 @@
   "author": "Rafael Almeida",
   "license": "ISC",
   "dependencies": {
+    "serialport": "^4.0.1"
   }
 }

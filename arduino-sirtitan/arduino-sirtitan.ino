@@ -1,6 +1,6 @@
 /*
    SirTitan
-   https://github.com/rafaelalmeidatk
+   Author: https://github.com/rafaelalmeidatk
 */
 
 //--------------------------------------------------
